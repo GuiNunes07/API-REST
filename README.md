@@ -65,3 +65,5 @@ Selecione o que quer testar e divirta-se.
 
 **Lembrando que: o endereço base, mantém "http://localhost:{port}"**
 
+
+<a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>
